@@ -22,10 +22,10 @@ Contributions are very welcome.
 ## Annual reports
 *Reports that come out on yearly.*
 ### 2022
-* [Crypto Theses for 2022 - Messari](https://messari.io/crypto-theses-for-2022) - Key trends, people, companies, and projects to watch across the crypto landscape, with predictions for 2022. [Direct download](https://files.rwl.se/index.php/s/j2eZtfAm9kGtT4M)
+* [Crypto Theses for 2022 - Messari](https://messari.io/crypto-theses-for-2022) - Key trends, people, companies, and projects to watch across the crypto landscape, with predictions for 2022. [Direct download](https://ipfs.io/ipfs/QmaF1AQC38rvL6QzXiSxD2GcWwfE2A5E83Sx7raP6XDQUA?filename=messari-report-crypto-theses-for-2022.pdf)
 
 ### 2021
-* [Year in Review - Coinbase Institutional](https://www.coinbase.com/prime/2021-year-in-review) - Our 2021 Year-in-Review highlights the remarkable growth for cryptocurrencies, the important regulatory milestone for Bitcoin ETFs, and the new drivers of the emerging crypto economy. [Direct download](https://files.rwl.se/index.php/s/tZobALz9f4sqEe9)
+* [Year in Review - Coinbase Institutional](https://www.coinbase.com/prime/2021-year-in-review) - Our 2021 Year-in-Review highlights the remarkable growth for cryptocurrencies, the important regulatory milestone for Bitcoin ETFs, and the new drivers of the emerging crypto economy. [Direct download](https://ipfs.io/ipfs/QmWJDuyZ4gg1TsJDY5JXEtDhGyBaC7Am5gHob6qsj9JEbm?filename=Coinbase_2021_YIR__1_.pdf)
 
 ## Bitcoin
 
